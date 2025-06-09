@@ -10,9 +10,9 @@ This project showcases a complete DevOps pipeline for deploying a React applicat
 - **GitHub** for source control
 
 ---
-             Jenkins URL-------->.http://3.83.113.123:8080/
- Prometheus URL--------.>http://3.83.113.123:9090/
-	React App URL-------------->http://3.83.113.123/
+Jenkins URL-------->.http://3.83.113.123:8080/
+Prometheus URL--------.>http://3.83.113.123:9090/
+React App URL-------------->http://3.83.113.123/
 Grafana URL---------------->http://3.83.113.123:3000/
 
 ## 🔧 Tech Stack
